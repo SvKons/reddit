@@ -1,0 +1,196 @@
+{
+  "posts": [
+    {
+      "id": "4944",
+      "title": "новвая задача",
+      "text": "qqq",
+      "contentUrl": "1712688139898-love.png",
+      "author": {
+        "username": "admin",
+        "email": "s@s.ru",
+        "password": "admin",
+        "birthdate": "20.12.2000",
+        "id": "1",
+        "avatarUrl": "1712684035094-cat.png"
+      }
+    },
+    {
+      "id": "5760",
+      "title": "моисей",
+      "text": "альфред",
+      "contentUrl": "1712688227330-cat.png",
+      "author": {
+        "username": "admin",
+        "email": "s@s.ru",
+        "password": "admin",
+        "birthdate": "20.12.2000",
+        "id": "1",
+        "avatarUrl": "1712684035094-cat.png"
+      }
+    },
+    {
+      "id": "2a40",
+      "title": "",
+      "text": "Я поехал ловить рыбу, зацените мои фоточки",
+      "contentUrl": "",
+      "author": {
+        "username": "admin",
+        "email": "s@s.ru",
+        "password": "admin",
+        "birthdate": "20.12.2000",
+        "id": "1",
+        "avatarUrl": "1712684035094-cat.png"
+      }
+    },
+    {
+      "id": "208f",
+      "title": "",
+      "text": "Я поехал ловить рыбу, зацените мои фоточки",
+      "contentUrl": "",
+      "author": {
+        "username": "admin",
+        "email": "s@s.ru",
+        "password": "admin",
+        "birthdate": "20.12.2000",
+        "id": "1",
+        "avatarUrl": "1712684035094-cat.png"
+      }
+    },
+    {
+      "id": "8cf7",
+      "title": "",
+      "text": "Я поехал ловить рыбу, зацените мои фоточки",
+      "contentUrl": "",
+      "author": {
+        "username": "admin",
+        "email": "s@s.ru",
+        "password": "admin",
+        "birthdate": "20.12.2000",
+        "id": "1",
+        "avatarUrl": "1712684035094-cat.png"
+      }
+    },
+    {
+      "id": "00d7",
+      "title": "",
+      "text": "Я поехал ловить рыбу, зацените мои фоточки",
+      "contentUrl": "",
+      "author": {
+        "username": "admin",
+        "email": "s@s.ru",
+        "password": "admin",
+        "birthdate": "20.12.2000",
+        "id": "1",
+        "avatarUrl": "1712684035094-cat.png"
+      },
+      "category": "Leisure and entertainment, Hobbies, Travel, Photos"
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "email": "s@s.ru",
+      "password": "admin",
+      "birthdate": "20.12.2000",
+      "id": "1",
+      "avatarUrl": "1712684035094-cat.png"
+    },
+    {
+      "username": "1",
+      "email": "s@s.ru",
+      "password": "1",
+      "birthdate": "20.12.2000",
+      "id": "r4"
+    },
+    {
+      "id": "2",
+      "email": "a@a.ru",
+      "birthdate": "20.12.2000",
+      "username": "b",
+      "password": "b"
+    },
+    {
+      "username": "Henry Ford",
+      "email": "henryford@gmail.com",
+      "password": "123",
+      "birthdate": "02.03.1875",
+      "id": "3"
+    }
+  ],
+  "messages": [
+    {
+      "id": "0c44",
+      "text": "Привет",
+      "senderId": "1",
+      "chatId": "1-3",
+      "createDate": "Tue Apr 16 2024 21:47:54 GMT+0300 (Москва, стандартное время)"
+    },
+    {
+      "id": "2f29",
+      "text": "Привет",
+      "senderId": "1",
+      "chatId": "1-3",
+      "createDate": "Tue Apr 16 2024 21:47:54 GMT+0300 (Москва, стандартное время)"
+    },
+    {
+      "id": "8b64",
+      "text": "Ghdtn",
+      "senderId": "1",
+      "chatId": "1-3"
+    },
+    {
+      "id": "1c75",
+      "text": "sdfsd",
+      "senderId": "1",
+      "chatId": "1-3"
+    },
+    {
+      "id": "1370",
+      "text": "qq",
+      "senderId": "1",
+      "chatId": "1-3"
+    },
+    {
+      "id": "6c29",
+      "text": "fdf",
+      "senderId": "1",
+      "chatId": "1-3"
+    },
+    {
+      "id": "b897",
+      "text": "fdfdhsadkjhsfdhksd",
+      "senderId": "1",
+      "chatId": "1-3"
+    },
+    {
+      "id": "b1f1",
+      "text": "fdfdhsadkjhsfdhksddfjhsjfhd",
+      "senderId": "1",
+      "chatId": "1-3"
+    },
+    {
+      "id": "0173",
+      "text": "Привет",
+      "senderId": "1",
+      "chatId": "1-3"
+    },
+    {
+      "id": "2c6f",
+      "text": "Здаров",
+      "senderId": "3",
+      "chatId": "1-3"
+    },
+    {
+      "id": "a30f",
+      "text": "первое",
+      "senderId": "1",
+      "chatId": "1-3"
+    },
+    {
+      "id": "ace1",
+      "text": "второе",
+      "senderId": "3",
+      "chatId": "1-3"
+    }
+  ]
+}
